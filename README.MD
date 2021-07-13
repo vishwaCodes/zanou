@@ -1,4 +1,4 @@
-PROJECT ONE:
+# Zanou
 
 Zanou: A soothing self-care journal journey.
 "Zanou" in Japanese means cherry blossoms that remain in bloom even after spring has passed.
